@@ -17,3 +17,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This is a simple Todo App. Here one can add task, update task and delete task.
 
 Tech Stack used here are NextJS, Tailwindcss, Typescript.
+
+Todo App is deployed as https://todo-next-typescript.vercel.app
